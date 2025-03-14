@@ -64,6 +64,7 @@ Enumerate general DNS records for a given domain (MX, SOA, NS, A, AAAA, SPF , TX
 Perform common SRV Record Enumeration
 Top level domain expansion
 ## OUTPUT:
+
 ![Screenshot 2025-03-14 142111](https://github.com/user-attachments/assets/cf07818b-4fa3-4132-a038-5656963bca61)
 ![Screenshot 2025-03-14 142133](https://github.com/user-attachments/assets/a53abde2-41ea-46c6-bb52-e667691070c0)
 
@@ -95,7 +96,8 @@ Telnet allows to connect to remote host based on the port no. For smtp port no i
 telnet <host address> 25 to connect
 and issue appropriate commands
   
- ##Output
+ ## Output
+ 
  ![Screenshot 2025-03-14 142652](https://github.com/user-attachments/assets/2abe0f7b-35b1-484a-8998-6ef9cd96b5fd)
 
   
